@@ -1,0 +1,69 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Robert Walters | In The Arena'
+theme = 'paige'
+paginate = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params.paige]
+style = """
+#paige-site-description {
+    margin-top: 1rem;
+}
+#paige-site-title {
+    font-size: 3rem;
+}
+#paige-page-title {
+    margin-bottom: 3rem;
+}
+#paige-page-content {
+    margin-top: 0;
+    padding-right: 10rem;
+    }
+#paige-page-content img {
+    margin-top: 1.2rem;
+}    
+"""
+
+[params.paige.site]
+description = "Agronomics | Environment | Sensor Networks | Infrastructure"
+
+[menu]
+  [[menu.main]]
+    name = 'Portal'
+    identifier = 'portal'
+    weight = 10
+
+  [[menu.main]]
+    name = 'Projects'
+    identifier = 'projects'
+    parent = 'portal'
+    url = '/projects/'
+    weight = 1
+
+  [[menu.main]]
+    name = "Dirt Hog's Companion"
+    parent = 'portal'
+    url = '/dirt-hogs-companion/'
+    weight = 2
+
+  [[menu.main]]
+    name = 'Advancing Agronomy Notes'
+    parent = 'portal'
+    url = '/advancing-agronomy-notes/'
+    weight = 3
+
+  [[menu.main]]
+    name = 'Agrosphere Journal: A Blog'
+    parent = 'portal'
+    url = '/blog/'
+    weight = 4
+
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 20
