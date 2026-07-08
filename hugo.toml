@@ -18,19 +18,19 @@ style = """
     font-size: 3rem;
 }
 #paige-page-title {
-    margin-bottom: 3rem;
+    margin-bottom: .5rem;
 }
 #paige-page-content {
     margin-top: 0;
-    padding-right: 10rem;
-    }
+}
 #paige-page-content img {
     margin-top: 1.2rem;
+     margin-bottom: 1rem;
 }    
 """
 
 [params.paige.site]
-description = "Agronomics | Environment | Sensor Networks | Infrastructure"
+description = "Agronomics | Environment | Systems | Infrastructure"
 
 [menu]
   [[menu.main]]
