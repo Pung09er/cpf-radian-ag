@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'Robert Walters | In The Arena'
+title = 'Robert Walters | CPF Agrosphere'
 theme = 'paige'
 paginate = 10
 
