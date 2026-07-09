@@ -7,6 +7,8 @@ title = ''
 disable_pages = true
 disable_sections = true
 disable_collections = true
+disable_word_count = true
+disable_reading_time = true
 +++
 
 {{< paige/figure width="100%" >}}
