@@ -5,6 +5,8 @@ title = ''
 
 [paige.pages]
 disable_pages = true
+disable_word_count = true
+disable_reading_time = true
 
 [paige.subpages]
 disable_word_count = true
@@ -14,3 +16,5 @@ disable_reading_time = true
 {{< paige/figure width="100%" >}}
 ![Agricultural research landscape](/images/Palouse_hills_banner.png)
 {{< /paige/figure >}}
+
+<p style="text-align: center; font-style: italic; margin-top: 2rem; color: #999;">This site is currently under construction. Content is being added regularly.</p>
