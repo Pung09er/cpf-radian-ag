@@ -17,4 +17,4 @@ disable_reading_time = true
 ![Agricultural research landscape](/images/Palouse_hills_banner.png)
 {{< /paige/figure >}}
 
-<p style="text-align: center; font-style: italic; margin-top: 2rem; color: #999;">This site is currently under construction. Content is being added regularly.</p>
+<p style="text-align: center; font-style: italic; margin-top: 2rem; color: #999;">This site is currently under construction. Content is being added and updated regularly. Thank you for your patience.</p>
