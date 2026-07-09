@@ -1,6 +1,7 @@
 +++
 title = 'Agrosphere Journal'
 draft = false
+weight = 3
 
 [paige.subpages]
 disable_word_count = true

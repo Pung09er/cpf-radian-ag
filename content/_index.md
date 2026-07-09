@@ -5,12 +5,8 @@ title = ''
 
 [paige.pages]
 disable_pages = true
-disable_word_count = true
-disable_reading_time = true
-
-[paige.subpages]
-disable_word_count = true
-disable_reading_time = true
+disable_sections = true
+disable_collections = true
 +++
 
 {{< paige/figure width="100%" >}}

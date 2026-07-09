@@ -43,25 +43,19 @@ description = "Agronomics | Environment | Systems | Infrastructure"
     identifier = 'projects'
     parent = 'portal'
     url = '/projects/'
-    weight = 1
+    weight = -30
 
   [[menu.main]]
-    name = "Dirt Hog's Companion"
+    name = 'Transactions'
     parent = 'portal'
-    url = '/dirt-hogs-companion/'
-    weight = 2
-
-  [[menu.main]]
-    name = 'Advancing Agronomy Notes'
-    parent = 'portal'
-    url = '/advancing-agronomy-notes/'
-    weight = 3
+    url = '/transactions/'
+    weight = -20
 
   [[menu.main]]
     name = 'Agrosphere Journal: A Blog'
     parent = 'portal'
     url = '/blog/'
-    weight = 4
+    weight = -10
 
   [[menu.main]]
     name = 'About'
