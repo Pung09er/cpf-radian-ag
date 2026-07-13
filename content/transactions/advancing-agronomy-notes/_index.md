@@ -20,7 +20,7 @@ disable_date = true
 
 <p>Advancing Agronomy Notes was conceived with a single goal in mind: pull together information about a topic in agronomy to create an open, accessible, and exemplary reference document. The Internet excels at placing the world’s knowledge at our fingertips. But too often trolling that bottomless repository yields fragments instead of the whole enchilada, so to speak. The holistic approach, while affording a more exhaustive treatment, necessarily generates more body than found in, say, technical bulletins published by Research Centers and State Cooperative Extension entities. To assuage the unrelenting drift toward online attention deficit, we’ll break out AA Notes whenever feasible into separate, stand-alone parts for brevity’s sake.</p>
 
-<p>AAN focuses on the cropping side of agronomy in the same way that Dirt Hog’s Companion addresses soil-centric topics, though the boundary between the two may be, at times, blurred. For this reason, these resource Pages are incorporated under the Transactions header. Click on the images below to access the pdf documents. As always, your questions and thoughtful criticism are welcome.</p>
+<p>AAN focuses on the cropping side of agronomy in the same way that Dirt Hog’s Companion addresses soil-centric topics, though the boundary between the two may be, at times, blurred. For this reason, these resource Pages are incorporated under the Transactions header. Click on the tile images below to access the pdf documents. As always, your questions and thoughtful criticism are welcome.</p>
 
 </div>
 
