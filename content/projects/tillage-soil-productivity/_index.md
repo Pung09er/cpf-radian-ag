@@ -1,6 +1,7 @@
 +++
 title = 'Tillage and Soil Productivity'
 draft = false
+summary = "Examining the ways tillage has influenced soil and productivity in Southern agricultural systems."
 
 [paige.pages]
 disable_word_count = true
