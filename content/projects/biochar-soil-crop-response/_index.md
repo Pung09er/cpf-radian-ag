@@ -2,6 +2,7 @@
 title = 'Soil and Crop Response to Biochar Application'
 #date = '2019-12-29'
 draft = false
+weight = 2
 summary = "The biochar mystique has outlasted the bioenergy boom. Here's an unbiased assessment of the 'black gold' based on a five-year study."
 
 [paige.pages]

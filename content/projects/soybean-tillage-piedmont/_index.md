@@ -2,6 +2,7 @@
 title = 'Tillage Options for Corn and Soybean in the North Carolina Piedmont'
 draft = false
 summary = "Productivity gains from conservation practices that reduce or eliminate tillage and preserve land cover are possible."
+weight = 5
 
 [paige.pages]
 disable_word_count = true

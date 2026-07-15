@@ -1,6 +1,9 @@
 +++
 title = 'Adaptive Residue Management Systems for Cotton and Soybean'
 draft = false
+weight = 6
+summary = "Chronicles of the roller-crimper tool"
+
 
 [paige.pages]
 disable_word_count = true
