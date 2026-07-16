@@ -30,7 +30,7 @@ style = """
 """
 
 [params.paige.site]
-description = "Agronomics | Environment | Systems | Infrastructure"
+description = "Agronomics | Environment | ROD | Infrastructure"
 
 [menu]
   [[menu.main]]
@@ -43,19 +43,31 @@ description = "Agronomics | Environment | Systems | Infrastructure"
     identifier = 'projects'
     parent = 'portal'
     url = '/projects/'
-    weight = -30
+    weight = 1
 
   [[menu.main]]
     name = 'Transactions'
     parent = 'portal'
     url = '/transactions/'
-    weight = -20
+    weight = 2
+
+  [[menu.main]]
+    name = 'Behind the Wire'
+    parent = 'portal'
+    url = '/behind-the-wire/'
+    weight = 3
+
+  [[menu.main]]
+    name = 'Explorations'
+    parent = 'portal'
+    url = '/explorations/'
+    weight = 4
 
   [[menu.main]]
     name = 'Agrosphere Journal: A Blog'
     parent = 'portal'
     url = '/blog/'
-    weight = -10
+    weight = 5
 
   [[menu.main]]
     name = 'About'
