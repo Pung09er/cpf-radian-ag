@@ -26,19 +26,19 @@ disable_reading_time = true
 
 <div style="display: flex; flex-direction: row; gap: 1rem; align-items: flex-start; justify-content: center;">
 
-  <a href="/documents/farmer-to-farmer/compost/Compost_Basics_CN_Ratio_Recipe_Making(E).pdf">
+  <a href="/documents/farmer-to-farmer/compost/Compost_Basics_CN_Ratio_Recipe_Making(E).pdf" target="_blank" rel="noopener">
     <img src="/images/shared/compost/Composting-Basics-CN-Ratio-English-Banner-Tile1.png" alt="Composting Basics C:N Ratio Recipe Making (English)" style="width: 350px;">
   </a>
 
-  <a href="/documents/farmer-to-farmer/compost/Compost_Basics_CN_Ratio_Recipe_Making(M).pdf">
+  <a href="/documents/farmer-to-farmer/compost/Compost_Basics_CN_Ratio_Recipe_Making(M).pdf" target="_blank" rel="noopener">
     <img src="/images/shared/compost/Composting-Basics-CN-Ratio-Metric-Banner-Tile2.png" alt="Composting Basics C:N Ratio Recipe Making (Metric)" style="width: 350px;">
   </a>
 
-<a href="/documents/farmer-to-farmer/compost/composting-basic-bulk-density-moisture-porosity.pdf">
+<a href="/documents/farmer-to-farmer/compost/composting-basic-bulk-density-moisture-porosity.pdf" target="_blank" rel="noopener">
     <img src="/images/shared/compost/compost-basics-bulk-density-english-banner-light-tile4.png" alt="composting-basic-bulk-density-moisture-porosity" style="width: 350px;">
   </a>
 
-  <a href="/documents/farmer-to-farmer/compost/BAN320EOA.pdf">
+  <a href="/documents/farmer-to-farmer/compost/BAN320EOA.pdf" target="_blank" rel="noopener">
     <img src="/images/farmer-to-farmer/compost/BAN320-Debriefing-Banner-Tile3.png" alt="BAN320 End of Assignment Debriefing Report" style="width: 350px;">
   </a>
 

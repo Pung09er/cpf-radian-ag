@@ -20,10 +20,9 @@ relations, and stimulate beneficial soil fungi. This research evaluated crop and
 </div>
 <div style="clear:both"></div>
 
-- [Walters, R. D. and J.G. White. 2018. Biochar In Situ Decreased Bulk Density and Improved Soil-Water Relations and Indicators in Southeastern US Coastal Plain Ultisols. Soil Science 183(3)  :1.](https://www.researchgate.net/publication/329578950_Biochar_In_Situ_Decreased_Bulk_Density_and_Improved_Soil-Water_Relations_and_Indicators_in_Southeastern_US_Coastal_Plain_Ultisols) — Original research article summarizing soil reaction to biochar enrichment.
-
-- [Biochar Improved Agronomically Important Physical Properties in a Coastal Plain Ultisol](/documents/biochar/SSSA11_biochar_pp_web.pdf) — An updated (2013) version with new data.
-
-- [Blog Post Title 1](#) — *Placeholder — link to be added once blog is transferred from WordPress.*
-
-- [Blog Post Title 2](#) — *Placeholder — link to be added once blog is transferred from WordPress.*
+<ul style="text-align: left;">
+  <li><a href="https://www.researchgate.net/publication/329578950_Biochar_In_Situ_Decreased_Bulk_Density_and_Improved_Soil-Water_Relations_and_Indicators_in_Southeastern_US_Coastal_Plain_Ultisols" target="_blank" rel="noopener">Biochar In Situ Decreased Bulk Density and Improved Soil-Water Relations and Indicators in Southeastern US Coastal Plain Ultisols.</a> Robert D. Walters and Jeffrey G. White. Original research article published in 2018 summarizing soil reaction to biochar enrichment. It has earned 23 citations!</li>
+  <li><a href="/documents/biochar/SSSA11_biochar_pp_web.pdf" target="_blank" rel="noopener">Biochar Improved Agronomically Important Physical Properties in a Coastal Plain Ultisol</a> — An updated (2013) version with new data.</li>
+  <li><a href="#">Blog Post Title 1</a> — <em>Placeholder — link to be added once blog is transferred from WordPress.</em></li>
+  <li><a href="#">Blog Post Title 2</a> — <em>Placeholder — link to be added once blog is transferred from WordPress.</em></li>
+</ul>

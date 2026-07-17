@@ -26,15 +26,15 @@ disable_date = true
 
 <div style="display: flex; flex-direction: column; gap: 1rem; align-items: center;">
 
-  <a href="/documents/transactions/advancing-agronomy-notes/Measuring-Biomass-Nutrient-Utilization-and-Yield-of-a-Maize-Crop-Pt.1.pdf">
+  <a href="/documents/transactions/advancing-agronomy-notes/Measuring-Biomass-Nutrient-Utilization-and-Yield-of-a-Maize-Crop-Pt.1.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/advancing-agronomy-notes/maize-partI-banner-dark.png" alt="Measuring Biomass Nutrient Utilization and Yield of a Maize Crop Part I" style="width: 400px;">
   </a>
 
-  <a href="/documents/transactions/advancing-agronomy-notes/Measuring-Biomass-Nutrient-Utilization-and-Yield-of-a-Maize-Crop-Pt.2.pdf">
+  <a href="/documents/transactions/advancing-agronomy-notes/Measuring-Biomass-Nutrient-Utilization-and-Yield-of-a-Maize-Crop-Pt.2.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/advancing-agronomy-notes/maize-partII-banner-dark.png" alt="Measuring Biomass Nutrient Utilization and Yield of a Maize Crop Part II" style="width: 400px;">
   </a>
 
-  <a href="/documents/transactions/advancing-agronomy-notes/Wet-vs-Dry-Basis-Moisture-Relationships.pdf">
+  <a href="/documents/transactions/advancing-agronomy-notes/Wet-vs-Dry-Basis-Moisture-Relationships.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/advancing-agronomy-notes/wet-dry-banner-light.png" alt="Wet vs Dry Basis Moisture Relationships" style="width: 450px;">
   </a>
 

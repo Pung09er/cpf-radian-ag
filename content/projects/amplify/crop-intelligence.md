@@ -20,9 +20,9 @@ machine guidance systems are generating high-dimensional information that could 
 
 <ul style="display: inline-block; text-align: left;">
   <li><a href="https://www.youtube.com/watch?v=AGhDnIM5NTM">Watch: Crop Intelligence Video</a> — Brief descriptor for the YouTube video goes here.</li>
-  <li><a href="/documents/amplify/crop-intelligence/AMPLIFY_Progress_Report_abridged.pdf">AMPLIFY Progress Report (Abridged)</a> — Brief descriptor goes here.</li>
-  <li><a href="/documents/amplify/crop-intelligence/AMP_2015_IF_Presentation.pdf">AMPLIFY 2015 IF Presentation</a> — Brief descriptor goes here.</li>
-  <li><a href="/documents/amplify/crop-intelligence/NVDI-PRI-IFPanel.pdf">NDVI-PRI IF Panel</a> — Brief descriptor goes here.</li>
+  <li><a href="/documents/amplify/crop-intelligence/AMPLIFY_Progress_Report_abridged.pdf" target="_blank" rel="noopener">AMPLIFY Progress Report (Abridged)</a> — Brief descriptor goes here.</li>
+  <li><a href="/documents/amplify/crop-intelligence/AMP_2015_IF_Presentation.pdf" target="_blank" rel="noopener">AMPLIFY 2015 IF Presentation</a> — Brief descriptor goes here.</li>
+  <li><a href="/documents/amplify/crop-intelligence/NVDI-PRI-IFPanel.pdf" target="_blank" rel="noopener">NDVI-PRI IF Panel</a> — Brief descriptor goes here.</li>
 </ul>
 
 </div>

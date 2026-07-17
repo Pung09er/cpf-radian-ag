@@ -27,53 +27,53 @@ decisions.
 <p style="font-size: 1.2rem; font-weight: bold; text-transform: uppercase; margin-top: 2rem;">Phase Reports</p>
 
 <ul style="display: inline-block; text-align: left;">
-  <li><a href="/documents/amplify/water-resiliency/phase-reports/In-The-Arena-2021-2023.pdf">In The Arena Phase I Report 2021–2023</a> — See what our team has
+  <li><a href="/documents/amplify/water-resiliency/phase-reports/In-The-Arena-2021-2023.pdf" target="_blank" rel="noopener">In The Arena Phase I Report 2021–2023</a> — See what our team has
 accomplished over the last three years and key priorities for the future.</li>
 </ul>
 
 <p style="font-size: 1.2rem; font-weight: bold; text-transform: uppercase; margin-top: 2rem;">Water Resiliency Technical Reports</p>
 
 <ul style="display: inline-block; text-align: left;">
-  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2022-Water-Resiliency-Corn-Report.pdf">2022 Water Resiliency Corn Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
+  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2022-Water-Resiliency-Corn-Report.pdf" target="_blank" rel="noopener">2022 Water Resiliency Corn Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
 Extension</li>
-  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2022-Water-Resiliency-Soy-Report.pdf">2022 Water Resiliency Soybean Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
+  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2022-Water-Resiliency-Soy-Report.pdf" target="_blank" rel="noopener">2022 Water Resiliency Soybean Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
 Extension</li>
-  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2023-Water-Resiliency-Corn-Report.pdf">2023 Water Resiliency Corn Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
+  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2023-Water-Resiliency-Corn-Report.pdf" target="_blank" rel="noopener">2023 Water Resiliency Corn Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
 Extension</li>
-  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2023-Water-Resiliency-Soy-Report.pdf">2023 Water Resiliency Soybean Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
+  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2023-Water-Resiliency-Soy-Report.pdf" target="_blank" rel="noopener">2023 Water Resiliency Soybean Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
 Extension</li>
-  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2024-Water-Resiliency-Corn-Report.pdf">2024 Water Resiliency Corn Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
+  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2024-Water-Resiliency-Corn-Report.pdf" target="_blank" rel="noopener">2024 Water Resiliency Corn Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
 Extension</li>
-  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2024-Water-Resiliency-Soy-Report.pdf">2024 Water Resiliency Soybean Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
+  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2024-Water-Resiliency-Soy-Report.pdf" target="_blank" rel="noopener">2024 Water Resiliency Soybean Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
 Extension</li>
-  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2025-Water-Resiliency-Corn-Report.pdf">2025 Water Resiliency Corn Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
+  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2025-Water-Resiliency-Corn-Report.pdf" target="_blank" rel="noopener">2025 Water Resiliency Corn Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
 Extension</li>
-  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2025-Water-Resiliency-Soy-Report.pdf">2025 Water Resiliency Soybean Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
+  <li><a href="/documents/amplify/water-resiliency/technical-reports/AMP-2025-Water-Resiliency-Soy-Report.pdf" target="_blank" rel="noopener">2025 Water Resiliency Soybean Report</a> —  CPF Agronomics, NC Corn Growers Assoc., NC Cooperative
 Extension</li>
 </ul>
 
 <p style="font-size: 1.2rem; font-weight: bold; text-transform: uppercase; margin-top: 2rem;">Other Resources</p>
 
 <ul style="display: inline-block; text-align: left;">
-  <li><a href="/documents/amplify/water-resiliency/other-resources/JP-Lilley-Blacklands-Soils-North-Carolina.pdf">JP Lilley — The Blacklands Soils of North Carolina</a> — The Blacklands are agriculturally important organic and mineral-organic soils in the lower coastal plain of eastern North Carolina. It’s no exaggeration to say that the Blacklands are North Carolina’s “breadbasket.” However, these poorly to very poorly drained soils require special care to remain productive. This technical bulletin, first published in 1981, remains a key reference on the genesis, characteristics, and management of blackland soils.</li>
+  <li><a href="/documents/amplify/water-resiliency/other-resources/JP-Lilley-Blacklands-Soils-North-Carolina.pdf" target="_blank" rel="noopener">JP Lilley — The Blacklands Soils of North Carolina</a> — The Blacklands are agriculturally important organic and mineral-organic soils in the lower coastal plain of eastern North Carolina. It’s no exaggeration to say that the Blacklands are North Carolina’s “breadbasket.” However, these poorly to very poorly drained soils require special care to remain productive. This technical bulletin, first published in 1981, remains a key reference on the genesis, characteristics, and management of blackland soils.</li>
 </ul>
 <p style="font-size: 1.2rem; font-weight: bold; text-transform: uppercase; margin-top: 2rem;">Ag Water Literacy Publications</p>
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 1rem; justify-content: center;">
 
-  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PI.pdf">
+  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PI.pdf" target="_blank" rel="noopener">
     <img src="/images/ag-water-literacy/Ag-Water-Literacy-P1-Banner.png" alt="Ag Water Literacy Part I" style="width: 320px;">
   </a>
 
-  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PII.pdf">
+  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PII.pdf" target="_blank" rel="noopener">
     <img src="/images/ag-water-literacy/Ag-Water-Literacy-P2-Banner.png" alt="Ag Water Literacy Part II" style="width: 320px;">
   </a>
 
-  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PIII.pdf">
+  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PIII.pdf" target="_blank" rel="noopener">
     <img src="/images/ag-water-literacy/Ag-Water-Literacy-P3-Banner.png" alt="Ag Water Literacy Part III" style="width: 320px;">
   </a>
 
-  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PIV.pdf">
+  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PIV.pdf" target="_blank" rel="noopener">
     <img src="/images/ag-water-literacy/Ag-Water-Literacy-P4-Banner.png" alt="Ag Water Literacy Part IV" style="width: 320px;">
   </a>
 

@@ -23,27 +23,27 @@ disable_date = true
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-top: 1rem;">
 
-  <a href="/documents/transactions/dirt-hogs-companion/calibrating-large-spreaders.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/calibrating-large-spreaders.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/Calibrating-Large-Spreaders-Banner-light.png" alt="Calibrating Large Spreaders" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/computing-percent-slope-gradient.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/computing-percent-slope-gradient.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/computing-slopegrade-banner-light.png" alt="Computing Percent Slope and Grade" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/dirt-hogs-tools-of-the-trade.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/dirt-hogs-tools-of-the-trade.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/dirt-hogs-tools-banner-light.png" alt="Dirt Hog's Tools of the Trade" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/essential-nitrogen.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/essential-nitrogen.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/essential-nitrogen-banner-light.png" alt="Essential Nitrogen" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/nutrient-transport-to-roots.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/nutrient-transport-to-roots.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/nutrient-transport-roots-banner-light.png" alt="Nutrient Transport to Roots" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/particle-and-bulk-density.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/particle-and-bulk-density.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/particle-bulk-density-banner-light.png" alt="Particle and Bulk Density" style="width: 280px;">
   </a>
 
@@ -53,67 +53,67 @@ disable_date = true
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 1rem; justify-content: flex-start; margin-top: 1rem; padding-left: 6%;">
 
-  <a href="/documents/transactions/dirt-hogs-companion/soil-acidity-and-liming.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/soil-acidity-and-liming.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/soil-acidity-liming-banner-light.png" alt="Soil Acidity and Liming" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/particle-and-bulk-density.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/particle-and-bulk-density.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/soil-compaction-banner-light.png" alt="Soil Compaction" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/soil-draft-and-traction.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/soil-draft-and-traction.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/soil-draft-traction-english-banner-light.png" alt="Soil Draft and Traction (English)" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/relaciones-suelo-tiro-y-labranza.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/relaciones-suelo-tiro-y-labranza.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/soil-draft-traction-spanish-banner-light.png" alt="Relaciones Suelo Tiro y Labranza (Spanish)" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/soil-productivity.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/soil-productivity.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/soil-productivity-banner-light.png" alt="Soil Productivity" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/the-moldboard-plow.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/the-moldboard-plow.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/the-moldboard-plow-banner-light.png" alt="The Moldboard Plow" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/understanding-pH.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/understanding-pH.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/pH-theory-measurement-application_banner-light.png" alt="Understanding pH" style="width: 280px;">
   </a>
 
-  <a href="/documents/shared/compost/Compost_Basics_CN_Ratio_Recipe_Making(E).pdf">
+  <a href="/documents/shared/compost/Compost_Basics_CN_Ratio_Recipe_Making(E).pdf" target="_blank" rel="noopener">
     <img src="/images/shared/compost/Composting-Basics-CN-Ratio-English-Banner-Tile1.png" alt="Composting Basics C:N Ratio (English)" style="width: 280px;">
   </a>
 
-  <a href="/documents/shared/compost/Compost_Basics_CN_Ratio_Recipe_Making(M).pdf">
+  <a href="/documents/shared/compost/Compost_Basics_CN_Ratio_Recipe_Making(M).pdf" target="_blank" rel="noopener">
     <img src="/images/shared/compost/Composting-Basics-CN-Ratio-Metric-Banner-Tile2.png" alt="Composting Basics C:N Ratio (Metric)" style="width: 280px;">
   </a>
 
-  <a href="/documents/shared/compost/composting-basic-bulk-density-moisture-porosity.pdf">
+  <a href="/documents/shared/compost/composting-basic-bulk-density-moisture-porosity.pdf" target="_blank" rel="noopener">
     <img src="/images/shared/compost/compost-basics-bulk-density-english-banner-light-tile4.png" alt="Composting Basics Bulk Density Moisture Porosity" style="width: 280px;">
   </a>
 
-  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PI.pdf">
+  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PI.pdf" target="_blank" rel="noopener">
     <img src="/images/ag-water-literacy/Ag-Water-Literacy-P1-Banner.png" alt="Ag Water Literacy Part I" style="width: 280px;">
   </a>
 
-  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PII.pdf">
+  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PII.pdf" target="_blank" rel="noopener">
     <img src="/images/ag-water-literacy/Ag-Water-Literacy-P2-Banner.png" alt="Ag Water Literacy Part II" style="width: 280px;">
   </a>
 
-  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PIII.pdf">
+  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PIII.pdf" target="_blank" rel="noopener">
     <img src="/images/ag-water-literacy/Ag-Water-Literacy-P3-Banner.png" alt="Ag Water Literacy Part III" style="width: 280px;">
   </a>
 
-  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PIV.pdf">
+  <a href="/documents/ag-water-literacy/Ag_Water_Literacy_PIV.pdf" target="_blank" rel="noopener">
     <img src="/images/ag-water-literacy/Ag-Water-Literacy-P4-Banner.png" alt="Ag Water Literacy Part IV" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/intern-project-2003.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/intern-project-2003.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/intern-project-2003-report-banner-light.png" alt="Intern Project 2003" style="width: 280px;">
   </a>
 
-  <a href="/documents/transactions/dirt-hogs-companion/intern-project-2004.pdf">
+  <a href="/documents/transactions/dirt-hogs-companion/intern-project-2004.pdf" target="_blank" rel="noopener">
     <img src="/images/transactions/dirt-hogs-companion/intern-project-2004-report-banner-light.png" alt="Intern Project 2004" style="width: 280px;">
   </a>
 

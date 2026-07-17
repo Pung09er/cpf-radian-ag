@@ -26,15 +26,15 @@ control programs; (2) examine the relationship between residue decomposition and
 <p style="font-size: 1.2rem; font-weight: bold; text-transform: uppercase; margin-top: 2rem;">Technical Reports</p>
 
 <ul style="display: inline-block; text-align: left;">
-  <li><a href="/documents/projects/adaptive-residue-management/ASA-poster-roller-crimper.pdf">Residue Management Approaches in Conservation Tillage: Adaptive Research Directed Toward Cotton and Soybean Production in the Southeast</a> 2005 ASA-SSSA poster presentation.</li>
-  <li><a href="/documents/projects/adaptive-residue-management/High_Res_Contill_I.pdf">High Residue Conservation Tillage for Row Crop Production I</a> Preliminary findings and reaction.</li>
-  <li><a href="/documents/projects/adaptive-residue-management/High_Res_Contill_II.pdf">High Residue Conservation Tillage for Row Crop Production II</a> Two-year summary and thoughts.</li>
+  <li><a href="/documents/projects/adaptive-residue-management/ASA-poster-roller-crimper.pdf" target="_blank" rel="noopener">Residue Management Approaches in Conservation Tillage: Adaptive Research Directed Toward Cotton and Soybean Production in the Southeast</a> 2005 ASA-SSSA poster presentation.</li>
+  <li><a href="/documents/projects/adaptive-residue-management/High_Res_Contill_I.pdf" target="_blank" rel="noopener">High Residue Conservation Tillage for Row Crop Production I</a> Preliminary findings and reaction.</li>
+  <li><a href="/documents/projects/adaptive-residue-management/High_Res_Contill_II.pdf" target="_blank" rel="noopener">High Residue Conservation Tillage for Row Crop Production II</a> Two-year summary and thoughts.</li>
 </ul>
 
 <p style="font-size: 1.2rem; font-weight: bold; text-transform: uppercase; margin-top: 2rem;">Other Resources</p>
 
 <ul style="display: inline-block; text-align: left;">
-  <li><a href="/documents/projects/adaptive-residue-management/FAO_Soils_Bulletin77e.pdf">Soil Management and Conservation for Small Farms. FAO Soils Bulletin 77.</a> V.H. de Freitas. This bulletin describes innovative strategies for smallholder technologies and equipment aimed at countering land degradation in
+  <li><a href="/documents/projects/adaptive-residue-management/FAO_Soils_Bulletin77e.pdf" target="_blank" rel="noopener">Soil Management and Conservation for Small Farms. FAO Soils Bulletin 77.</a> V.H. de Freitas. This bulletin describes innovative strategies for smallholder technologies and equipment aimed at countering land degradation in
 the State of Santa Catarina, Brazil. It also includes a description of early prototypes of the mechanical roller-crimper that would inspire later designs of the tool in North America.</li>
 </ul>
 
