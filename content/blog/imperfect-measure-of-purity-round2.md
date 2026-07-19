@@ -10,21 +10,18 @@ disable_word_count = true
 disable_reading_time = true
 +++
 
-{{< paige/figure float="start" >}}
-<img src="/images/blog/imperfect-measure-of-purity-round2/water-molecule-image.png" alt="Water molecule auto-ionization" style="width: 350px;">
-{{< /paige/figure >}}
-
-<div style="padding-right: 2rem;">
-
-<p>The electrical conductivity of "pure water" is determined by auto-ionization of water molecules and the dissolution of atmospheric CO<sub>2</sub> according to Henry's law, coupled with carbonate equilibria. The whole system balances on temperature and pressure.</p>
-
-<p>In Round 1, we scrutinized the textbook claim that pure water is a perfect insulator. This statement is paradoxical and, as we countered, incorrect. By examining water's molecular structure, we established why water exhibits electrical conductivity, a universal material property and fundamental measure of salinity in water quality. In Round 2, we extend these observations to determine the theoretical minimum conductivity of pure water and explain why no definition of "pure water" yields exactly zero conductivity. Tighten your wigs, conquistadores, we're voyaging to the electrochemical headwaters in this round.</p>
-
-</div>
-
 <!--more-->
 
 <div style="max-width: 800px; margin: 0 auto; padding: 0 1.5rem;">
+
+<div style="float: left; width: 350px; margin-right: 1.5rem; margin-bottom: 3rem;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/water-molecule-image.png" alt="Water molecule auto-ionization" style="width: 350px; margin-bottom: 0;">
+<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">The electrical conductivity of "pure water" is determined by auto-ionization of water molecules and the dissolution of atmospheric CO<sub>2</sub> according to Henry's law, coupled with carbonate equilibria. The whole system balances on temperature and pressure.</p>
+</div>
+
+<p>In Round 1, we scrutinized the textbook claim that pure water is a perfect insulator. This statement is paradoxical and, as we countered, incorrect. By examining water's molecular structure, we established why water exhibits electrical conductivity, a universal material property and fundamental measure of salinity in water quality. In Round 2, we extend these observations to determine the theoretical minimum conductivity of pure water and explain why no definition of "pure water" yields exactly zero conductivity. Tighten your wigs, conquistadores, we're voyaging to the electrochemical headwaters in this round.</p>
+
+<div style="clear:both; margin: 0; padding: 0;"></div>
 
 <p>The meaning of "pure water" in the context of electrical conductivity has two definitions: a theoretical, idealized definition and a practical definition. The idealized definition, in its strictest sense, refers to water containing only H<sub>2</sub>O molecules and nothing else:</p>
 
@@ -64,9 +61,12 @@ disable_reading_time = true
 
 <p>At 25°C, the equilibrium constant (K<sub>w</sub>) = 1.01 × 10<sup>-14</sup> mol/kg<sup>-2</sup> H<sub>2</sub>O (Marshall and Frank, 1981), giving:</p>
 
-<div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/equilibrium-constant-eq.png" alt="Equilibrium constant equations" style="width: 350px;">
-</div>
+<p style="text-align: center;">K<sub>w</sub> = [H<sup>+</sup>]×[OH<sup>–</sup>]</p>
+<p style="text-align: center;">K<sub>w</sub> = [H<sup>+</sup>]<sup>2</sup> (since [H<sup>+</sup>] = [OH<sup>–</sup>])</p>
+<p style="text-align: center;">[H<sup>+</sup>] = √K<sub>w</sub></p>
+<p style="text-align: center;">[H<sup>+</sup>] = √1.01 × 10<sup>-14</sup></p>
+<p style="text-align: center;">[H<sup>+</sup>] = 1.0005 × 10<sup>-7</sup> mol/L</p>
+<p style="text-align: center;">[H<sup>+</sup>] = [OH<sup>–</sup>] = 1.0005 × 10<sup>-7</sup> mol/L</p>
 
 <p>In pure water, the ionic concentration due to auto-dissociation alone yields a pH of 7.0. We can check this:</p>
 
@@ -92,12 +92,12 @@ disable_reading_time = true
 <p>Note that the units of ionic conductivity are siemens (S) per square centimeter (cm<sup>2</sup>) per equivalent. In chemistry, an "equivalent" represents the charge contribution of an ion; for example, H<sup>+</sup> has one equivalent (single charge, monovalent), Ca<sup>2+</sup> has two equivalents (2<sup>+</sup> charge, divalent), and so on. The conductivity of a solution is given by the total specific conductivity equation:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/conductivity-summation-eq.png" alt="Total specific conductivity equation" style="width: 350px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/conductivity-summation-eq.png" alt="Total specific conductivity equation" style="width: 200px;">
 </div>
 
 <p>Where:</p>
 <ul>
-  <li>κ = conductivity<sup style="color: #EE0000;">1</sup> (S/cm)</li>
+  <li>κ = conductivity<sup style="color: #E5BA66;">1</sup> (S/cm)</li>
   <li>λ°ᵢ = equivalent conductivity of ion "i" at infinite dilution (S/cm²/equivalent)</li>
   <li>cᵢ = concentration of ion "i" (equivalent/cm³)</li>
   <li>|zᵢ| = absolute value of the charge on ion "i"</li>
@@ -142,10 +142,10 @@ disable_reading_time = true
 
 <p>The difference (&lt; 3%) is within the expected uncertainty for the ISO 3696 and ASTM D1193 specifications, 0.055 µS/cm. However, the conductivity of Type I Ultrapure Water is certainly not zero!</p>
 
-<p>Type I Ultrapure Water also has a measurable resistivity (ρ), defined as the reciprocal of conductivity<sup style="color: #EE0000;">2</sup>:</p>
+<p>Type I Ultrapure Water also has a measurable resistivity (ρ), defined as the reciprocal of conductivity<sup style="color: #E5BA66;">2</sup>:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/resistivity-eq.png" alt="Resistivity equation" style="width: 200px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/resistivity-eq.png" alt="Resistivity equation" style="width: 60px;">
 </div>
 
 <p style="text-align: center;">ρ = 1 / (5.6764 × 10<sup>-8</sup> S/cm)</p>
@@ -163,7 +163,7 @@ disable_reading_time = true
 <p>Next, let's examine what happens when Type I Ultrapure Water is exposed to atmospheric CO<sub>2</sub>. This will lean on <a href="https://en.wikipedia.org/wiki/Henry%27s_law" target="_blank" rel="noopener">Henry's law</a>, which quantifies the solubility of gas under pressure:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/henrys-law-eq.png" alt="Henry's law equation" style="width: 250px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/henrys-law-eq.png" alt="Henry's law equation" style="width: 120px;">
 </div>
 
 <p>Where:</p>
@@ -252,7 +252,7 @@ disable_reading_time = true
 <p style="text-align: center;">K<sub>w</sub> = [H<sup>+</sup>] [OH<sup>–</sup>] = 1.00 × 10<sup>-14</sup> at 25°C</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/ion-concentrations-table.png" alt="Ion concentrations equation" style="width: 350px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/equilibrium-constant-eq.png" alt="Equilibrium constant equations" style="width: 320px;">
 </div>
 
 <p>The answer 3.98 × 10<sup>-9</sup> mol/L is reasonable because the H<sup>+</sup> concentration is elevated above the neutral pH (10<sup>-7</sup> M) due to the formation of carbonic acid from dissolved CO<sub>2</sub>, which dissociates to release H<sup>+</sup> (protons). Since the water equilibrium constant K<sub>w</sub> remains fixed at 25°C, as [H<sup>+</sup>] increases, [OH<sup>–</sup>] must decrease proportionally.</p>
@@ -260,13 +260,13 @@ disable_reading_time = true
 <p>The concentration of ions in pure water in equilibrium with CO<sub>2</sub> is summarized by:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/ion-concentrations-table.png" alt="Ion concentrations table" style="width: 400px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/ion-concentrations-table.png" alt="Ion concentrations table" style="width: 230px;">
 </div>
 
 <p><strong>Step 2:</strong> Solve for the molar ionic conductivity of H<sup>+</sup>, HCO<sub>3</sub><sup>–</sup>, OH<sup>–</sup>, and CO<sub>3</sub><sup>2–</sup>. For brevity, we use published values at infinite dilution (λ°, 25°C):</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/molar-ionic-conductivity-table.png" alt="Molar ionic conductivity table" style="width: 400px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/molar-ionic-conductivity-table.png" alt="Molar ionic conductivity table" style="width: 300px;">
 </div>
 
 <p><strong>Step 3:</strong> Solve for total EC using the conductivity equation:</p>
@@ -292,13 +292,13 @@ disable_reading_time = true
 <p>The fractional contribution breakdown is:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/fractional-contribution-table.png" alt="Fractional contribution table" style="width: 400px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/fractional-contribution-table.png" alt="Fractional contribution table" style="width: 315px;">
 </div>
 
 <p>Summary of pure water chemistry in a closed and open system at 25°C:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/chemistry-closed-open-table.png" alt="Closed and open system summary table" style="width: 350px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/chemistry-closed-open-table.png" alt="Closed and open system summary table" style="width: 315px;">
 </div>
 
 <p>This shows, definitively, that exposure to atmospheric CO<sub>2</sub> (415 ppm) in an open system <em>increases</em> the conductivity of pure water by ~17.4×. In effect, rising CO<sub>2</sub> levels are salting <em>and</em> acidifying the Earth:</p>
@@ -335,9 +335,9 @@ disable_reading_time = true
 
 <p><strong>Footnotes</strong></p>
 
-<p><sup style="color: #EE0000;">1</sup> In chemistry and electrochemistry, the lowercase Greek letter kappa (κ) symbolizes the conductivity of aqueous (water-based) systems. In physics and electrical engineering, the symbol σ (sigma) denotes electrical conductivity. In practice, scientists in either field often bypass Greek notation and use the acronym "EC" for electrical conductivity. Herein, we utilize kappa and EC interchangeably, formally and informally, as the case dictates.</p>
+<p><sup style="color: #E5BA66;">1</sup> In chemistry and electrochemistry, the lowercase Greek letter kappa (κ) symbolizes the conductivity of aqueous (water-based) systems. In physics and electrical engineering, the symbol σ (sigma) denotes electrical conductivity. In practice, scientists in either field often bypass Greek notation and use the acronym "EC" for electrical conductivity. Herein, we utilize kappa and EC interchangeably, formally and informally, as the case dictates.</p>
 
-<p><sup style="color: #EE0000;">2</sup> Any material with measurable conductivity also has reciprocal resistivity, including the soil on which crops are grown and buildings are stabilized. Measuring soil resistivity is critical for grounding electrical infrastructure and for corrosion assessment (pipelines, tanks, foundations, and rebar steel). Measurement methods for soil resistivity differ from those for salinity conductivity.</p>
+<p><sup style="color: #E5BA66;">2</sup> Any material with measurable conductivity also has reciprocal resistivity, including the soil on which crops are grown and buildings are stabilized. Measuring soil resistivity is critical for grounding electrical infrastructure and for corrosion assessment (pipelines, tanks, foundations, and rebar steel). Measurement methods for soil resistivity differ from those for salinity conductivity.</p>
 
 <hr>
 
