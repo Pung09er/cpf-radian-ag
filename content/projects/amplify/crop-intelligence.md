@@ -2,7 +2,7 @@
 title = 'Crop Intelligence'
 date = '2026-07-06'
 draft = false
-summary = "Placeholder summary for the Crop Intelligence component."
+summary = "A partnership with commodity groups, agribusiness, and technology developers to design and deploy interrogative proximate and remote sensors in agriculture."
 
 [paige.pages]
 disable_word_count = true
