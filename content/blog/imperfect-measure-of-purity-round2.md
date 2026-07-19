@@ -79,10 +79,9 @@ disable_reading_time = true
 <p>The H<sup>+</sup> and OH<sup>–</sup> ions mobilize via proton hopping (the Grotthuss mechanism), rather than via diffusion, which is the dominant mechanism for ion transport in solution.</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/grotthuss-mechanism-image.png" alt="Grotthuss mechanism diagram" style="width: 100%;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/grotthuss-mechanism-image.png" alt="Grotthuss mechanism diagram" style="width: 100%; margin-bottom: 0;">
+<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">The Grotthuss mechanism describes how protons (H<sup>+</sup>) move through water not by physically diffusing through the liquid, but by sequential proton transfers along chains of hydrogen-bonded water molecules. Hydroxide ions (OH<sup>–</sup>) also move via a Grotthuss-like mechanism, but the process differs in important ways and has been more controversial to characterize.</p>
 </div>
-
-<p>The Grotthuss mechanism describes how protons (H<sup>+</sup>) move through water not by physically diffusing through the liquid, but by sequential proton transfers along chains of hydrogen-bonded water molecules. Hydroxide ions (OH<sup>–</sup>) also move via a Grotthuss-like mechanism, but the process differs in important ways and has been more controversial to characterize.</p>
 
 <p>We must now determine the ionic conductivity per charge (symbol: λ), representing the conductivity contribution of one equivalent of the ions H<sup>+</sup> and OH<sup>–</sup> at infinite dilution. This sounds scary, but fortunately, these values are readily available from published sources like the CRC Handbook (Rumble, 2025):</p>
 
@@ -304,21 +303,20 @@ disable_reading_time = true
 <p>This shows, definitively, that exposure to atmospheric CO<sub>2</sub> (415 ppm) in an open system <em>increases</em> the conductivity of pure water by ~17.4×. In effect, rising CO<sub>2</sub> levels are salting <em>and</em> acidifying the Earth:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/Chart-1.png" alt="pH and EC vs CO2 concentration chart" style="width: 650px;">
-<p style="font-size: 0.9rem; margin-top: 0.5rem;">Relationship between pH and EC of pure water in equilibrium with varying atmospheric CO<sub>2</sub> concentrations. The first scientifically rigorous, monthly average measurement of atmospheric CO<sub>2</sub> was 315 ppm, conducted by Charles Keeling in 1958 at Mauna Loa Observatory in Hawaii.</p>
+<img src="/images/blog/imperfect-measure-of-purity-round2/Chart-1.png" alt="pH and EC vs CO2 concentration chart" style="width: 650px; margin-bottom: 0;">
+<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">Relationship between pH and EC of pure water in equilibrium with varying atmospheric CO<sub>2</sub> concentrations. The first scientifically rigorous, monthly average measurement of atmospheric CO<sub>2</sub> was 315 ppm, conducted by Charles Keeling in 1958 at Mauna Loa Observatory in Hawaii.</p>
 </div>
-
 <p>All the calculations we have done so far have been at a fixed temperature of 25°C and a pressure of 1 atm (sea level) to keep things simple. However, temperature and pressure are not constant across the Earth. The solubility of CO<sub>2</sub> gas in water is modulated by temperature and pressure according to Henry's law:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/Chart-2.png" alt="Dissolved CO2 dependence on pCO2" style="width: 550px;">
-<p style="font-size: 0.9rem; margin-top: 0.5rem;">Henry's law predicts significantly more dissolved CO<sub>2</sub> at 0°C than at 50°C for a given partial pressure. This is because gas solubility in liquids is an exothermic process: as you add thermal energy (heat), you give the dissolved gas molecules enough kinetic energy to overcome the attractive forces of the water molecules and escape back into the atmosphere.</p>
+<img src="/images/blog/imperfect-measure-of-purity-round2/Chart-2.png" alt="Dissolved CO2 dependence on pCO2" style="width: 550px; margin-bottom: 0;">
+<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">Henry's law predicts significantly more dissolved CO<sub>2</sub> at 0°C than at 50°C for a given partial pressure. This is because gas solubility in liquids is an exothermic process: as you add thermal energy (heat), you give the dissolved gas molecules enough kinetic energy to overcome the attractive forces of the water molecules and escape back into the atmosphere.</p>
 </div>
 
 <p>Which, in turn, influence pH and κ (EC), but in vastly different ways:</p>
 
 <div style="text-align: center; margin: 1.5rem 0;">
-<img src="/images/blog/imperfect-measure-of-purity-round2/Chart-3.png" alt="pH dependence on pCO2" style="width: 550px;">
+<img src="/images/blog/imperfect-measure-of-purity-round2/Chart-3.png" alt="pH dependence on pCO2" style="width: 575px;">
 </div>
 
 <div style="text-align: center; margin: 1.5rem 0;">
