@@ -3,7 +3,7 @@ title = 'An Imperfect Measure of Purity'
 date = '2026-01-20'
 draft = false
 summary = 'Meditations on electrical conductivity, EMF, charge mobility, conductors and insulators.'
-tags = ['dielectric', 'dipole moment', 'EMF', 'insulator', 'salinity', 'water', 'Water Resiliency']
+tags = ['dielectric', 'dipole moment', 'EMF', 'insulator','conductor', 'salinity', 'water']
 
 [paige.pages]
 disable_word_count = true
