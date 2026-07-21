@@ -2,7 +2,7 @@
 title = 'Profiles in Green: Japanese Negi'
 date = '2020-05-13'
 draft = false
-summary = 'The bunching onion, Negi in Japanese, has been cultivated for food throughout Asia since antiquity. Could it fill a void in fresh, local winter produce in North Carolina?'
+summary = 'Everything you always wanted to know about the onion family, without tears.'
 tags = ['bunching onion', 'Chung', 'Ciboule', 'Cong', 'Japan', 'Negi']
 
 [paige.pages]
