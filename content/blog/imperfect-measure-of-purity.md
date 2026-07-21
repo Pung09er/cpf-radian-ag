@@ -23,21 +23,21 @@ disable_reading_time = true
 
 <div style="clear:both; margin: 0; padding: 0;"></div>
 
-<p>One of the fundamental expressions of salinity is siemens (S), an SI-derived unit of <em>electrical conductance</em> (G). Electrical conductance is the reciprocal of resistance, expressed as:</p>
+<p style="margin-bottom: 0rem;">One of the fundamental expressions of salinity is siemens (S), an SI-derived unit of <em>electrical conductance</em> (G). Electrical conductance is the reciprocal of resistance, expressed as:</p>
 
-<div style="text-align: center; margin: 1.5rem 0;">
+<div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity/conductance-equation-def.png" alt="Electrical conductance equation G = omega inverse or G = 1/omega" style="width: 150px; margin-bottom: 0;">
 </div>
 
-<p>Where Greek letter Omega Ω symbolizes resistance (R), the same quantity that is measured in an electrical circuit, expressed through Ohm's Law:</p>
+<p style="margin-bottom: 0rem;">Where Greek letter Omega Ω symbolizes resistance (R), the same quantity that is measured in an electrical circuit, expressed through Ohm's Law:</p>
 
-<div style="text-align: center; margin: 1.5rem 0;">
+<div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity/ohms-law-relationship.png" alt="Ohm's Law V = I times R" style="width: 85px; margin-bottom: 0;">
 </div>
 
-<p>Ohm's law, in its original formulation, states that the current in Amperes (I) through a conductor is directly proportional to the voltage (potential difference) across it in Volts (V), provided the resistance in that conductor remains constant. A conductor has a conductance of 1 siemens when a potential difference of 1 volt produces a current of 1 ampere, yielding the fundamental relationship between units:</p>
+<p style="margin-bottom: 0rem;">Ohm's law, in its original formulation, states that the current in Amperes (I) through a conductor is directly proportional to the voltage (potential difference) across it in Volts (V), provided the resistance in that conductor remains constant. A conductor has a conductance of 1 siemens when a potential difference of 1 volt produces a current of 1 ampere, yielding the fundamental relationship between units:</p>
 
-<div style="text-align: center; margin: 1.5rem 0;">
+<div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity/siemens-relationship.png" alt="Siemens relationship 1S = 1/omega = 1 A/V" style="width: 110px; margin-bottom: 0;">
 </div>
 
@@ -53,9 +53,9 @@ disable_reading_time = true
 
 <p>The answer is no.</p>
 
-<p>First, let's review the definitions, properties, and classifications of insulators and conductors. An insulator is simply a material that strongly resists the flow of electrical current. In contrast, a conductor allows electric charge (electrons or ions) to flow through it easily. They represent opposite ends of a spectrum, with most materials falling somewhere between these extremes. Note the wording "strongly resists" in the definition of insulator. There are no perfect insulators at room temperature, and no perfect conductors except under certain conditions (i.e., superconductors). Materials exist on a continuous spectrum from perfect conductors to perfect insulators:</p>
+<p style="margin-bottom: 0.25rem;">First, let's review the definitions, properties, and classifications of insulators and conductors. An insulator is simply a material that strongly resists the flow of electrical current. In contrast, a conductor allows electric charge (electrons or ions) to flow through it easily. They represent opposite ends of a spectrum, with most materials falling somewhere between these extremes. Note the wording "strongly resists" in the definition of insulator. There are no perfect insulators at room temperature, and no perfect conductors except under certain conditions (i.e., superconductors). Materials exist on a continuous spectrum from perfect conductors to perfect insulators:</p>
 
-<div style="text-align: center; margin: 1.5rem 0;">
+<div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity/conductivity-scale.png" alt="Conductivity scale from perfect conductor to perfect insulator" style="width: 675px; margin-bottom: 0;">
 </div>
 
