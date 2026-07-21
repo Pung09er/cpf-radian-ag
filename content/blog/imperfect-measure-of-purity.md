@@ -71,9 +71,9 @@ disable_reading_time = true
 
 <p>The key point is that the electrical conductivities of materials span many orders of magnitude. Tap water is approximately 1.2 billion times less conductive than copper, but approximately 12 to 14 orders of magnitude <em>more</em> conductive than wood, which is classified as an "insulator", but not perfect. Paradoxically, water may also be classified as a weak insulator. <em>Whether something is classified as a conductor or an insulator is always relative to the full spectrum of materials</em>. Without a reference, labels like "conductor" and "insulator" are ill-defined and uninformative.</p>
 
-<p>So, what about the nature of water would motivate physics and chemistry authorities to describe it as a "perfect insulator"? To evaluate this claim, we must examine the atomic structure of an isolated water molecule. For our purposes, a simple cartoon will suffice:</p>
+<p style="margin-bottom: 0.25rem;">  So, what about the nature of water would motivate physics and chemistry authorities to describe it as a "perfect insulator"? To evaluate this claim, we must examine the atomic structure of an isolated water molecule. For our purposes, a simple cartoon will suffice:</p>
 
-<div style="text-align: center; margin: 1.5rem 0;">
+<div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity/single-water-molecule.png" alt="Single water molecule diagram showing bond angle and partial charges" style="width: 350px; margin-bottom: 0;">
 <p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">Characteristics of an isolated water molecule. δ+ and 2δ- represent the partial positive and negative charges on the proton (hydrogen) and oxygen. The bond angle reportedly ranges from 104.52° to 109.5° but is typically represented as 105°. Atomic distance is nanometers (nm), one billionth of a meter. <em>Image credit: R. Walters</em></p>
 </div>
@@ -92,9 +92,9 @@ disable_reading_time = true
 
 <p>Secondly, the polarity (separation of charge) of water molecules makes them mutually attractive (cohesive), a property resulting from hydrogen bonding. This same polarity also enables water to interact with (adhere to) other polar substances and ions. Polar water molecules can surround and stabilize dissolved ions through hydration shells, allowing the ions to separate and move freely. When ions are dissolved in water, these mobile charged ions make the solution electrically conductive, though "pure water" itself is a poor conductor.</p>
 
-<p>Hydrogen bonds form when the partially positive hydrogen of one water molecule is attracted to the partially negative oxygen of another. The electrostatic force in hydrogen bonding is weak compared to covalent bonding, but relatively strong when the O-H bond from one molecule is oriented toward a nearby oxygen atom, with the three atoms (O-H-O) positioned approximately linearly.</p>
+<p style="margin-bottom: 0.25rem;">    Hydrogen bonds form when the partially positive hydrogen of one water molecule is attracted to the partially negative oxygen of another. The electrostatic force in hydrogen bonding is weak compared to covalent bonding, but relatively strong when the O-H bond from one molecule is oriented toward a nearby oxygen atom, with the three atoms (O-H-O) positioned approximately linearly.</p>
 
-<div style="text-align: center; margin: 1.5rem 0;">
+<div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity/walter-molecules.png" alt="Three water molecules showing hydrogen bonds" style="width: 450px; margin-bottom: 0;">
 <p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">Water molecules interact with one another via weak hydrogen bonds. One water molecule can participate in four hydrogen bonds with other water molecules. This force of attraction between molecules, combined with the high density of molecules due to their small size, produces strong cohesion, which is responsible for water's liquid nature at standard pressure (1 atm) and at ambient temperatures 0° to 100°C. <em>Image credit: R. Walters</em></p>
 </div>
