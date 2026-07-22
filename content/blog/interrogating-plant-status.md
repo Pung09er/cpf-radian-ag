@@ -2,7 +2,7 @@
 title = 'Interrogating Plant Status in the Key of F'
 date = '2019-10-17'
 draft = false
-summary = 'My time with the MultispeQ PAM fluorometer. I sorely regret having to move on from it.'
+summary = 'My life and times with the MultispeQ PAM fluorometer. I regret having to move on from it.'
 tags = ['MultispeQ', 'PAM fluorometry', 'photochemistry', 'PhotosynQ']
 
 [paige.pages]
