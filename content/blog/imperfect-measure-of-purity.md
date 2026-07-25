@@ -14,7 +14,7 @@ disable_reading_time = true
 
 <div style="max-width: 800px; margin: 0 auto; padding: 0 1.5rem;">
 
-<div style="float: left; width: 350px; margin-right: 1.5rem; margin-bottom: 3rem;">
+<div style="float: left; width: 350px; margin-right: 1.5rem; margin-bottom: 4rem;">
 <img src="/images/blog/imperfect-measure-of-purity/water-liquid-phase.jpg" alt="Liquid water drop" style="width: 350px; margin-bottom: 0;">
 <p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">Water is a Protean, life-sustaining substance with no known replacement. Pure water is often described as a "perfect insulator" in the literature of chemistry and physics. Is this characterization accurate? We explore this question in the context of water's conductivity, a material property and fundamental measure of salinity.</p>
 </div>
