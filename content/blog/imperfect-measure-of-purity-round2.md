@@ -16,7 +16,7 @@ disable_reading_time = true
 
 <div style="float: left; width: 350px; margin-right: 1.5rem; margin-bottom: 3rem;">
 <img src="/images/blog/imperfect-measure-of-purity-round2/water-molecule-image.png" alt="Water molecule auto-ionization" style="width: 350px; margin-bottom: 0;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">The electrical conductivity of "pure water" is determined by auto-ionization of water molecules and the dissolution of atmospheric CO<sub>2</sub> according to Henry's law, coupled with carbonate equilibria. The whole system balances on temperature and pressure.</p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0.5; text-align: justify;">The electrical conductivity of "pure water" is determined by auto-ionization of water molecules and the dissolution of atmospheric CO<sub>2</sub> according to Henry's law, coupled with carbonate equilibria. The whole system balances on temperature and pressure.</p>
 </div>
 
 <p>In Round 1, we scrutinized the textbook claim that pure water is a perfect insulator. This statement is paradoxical and, as we countered, incorrect. By examining water's molecular structure, we established why water exhibits electrical conductivity, a universal material property and fundamental measure of salinity in water quality. In Round 2, we extend these observations to determine the theoretical minimum conductivity of pure water and explain why no definition of "pure water" yields exactly zero conductivity. Tighten your wigs, conquistadores, we're voyaging to the electrochemical headwaters in this round.</p>
@@ -80,7 +80,7 @@ disable_reading_time = true
 
 <div style="text-align: center; margin: 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity-round2/grotthuss-mechanism-image.png" alt="Grotthuss mechanism diagram" style="width: 100%; margin-bottom: 0;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">The Grotthuss mechanism describes how protons (H<sup>+</sup>) move through water not by physically diffusing through the liquid, but by sequential proton transfers along chains of hydrogen-bonded water molecules. Hydroxide ions (OH<sup>–</sup>) also move via a Grotthuss-like mechanism, but the process differs in important ways and has been more controversial to characterize.</p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">The Grotthuss mechanism describes how protons (H<sup>+</sup>) move through water not by physically diffusing through the liquid, but by sequential proton transfers along chains of hydrogen-bonded water molecules. Hydroxide ions (OH<sup>–</sup>) also move via a Grotthuss-like mechanism, but the process differs in important ways and has been more controversial to characterize.</p>
 </div>
 
 <p>We must now determine the ionic conductivity per charge (symbol: λ), representing the conductivity contribution of one equivalent of the ions H<sup>+</sup> and OH<sup>–</sup> at infinite dilution. This sounds scary, but fortunately, these values are readily available from published sources like the CRC Handbook (Rumble, 2025):</p>
