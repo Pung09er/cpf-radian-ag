@@ -36,7 +36,7 @@ Neo-Malthusian biologists like John Todd always assume that population growth mu
 
 I'm inclined to see food production in the future as a mosaic rather than a single, dominant modality. Clearly, industrial agriculture isn't going to be replaced by artisan modes of production unless we aim to resurrect yesteryear's agrarian society, which isn't realistic. At the same time, the farm-to-urban table movement occupies a vital niche even though it, too, depends on modern infrastructure, including fossil fuels; maybe less than conventional agriculture, but tractors in any guise burn diesel fuel, and crop culture, harvest, cooling, packaging, and transportation consume no small amount of energy. The definition of "sustainable" agriculture is nonspecific, but time and cash flow are certainly two necessary ingredients.
 
-<div style="float: right; width: 320px; margin-left: 1.5rem; margin-bottom: 3rem;">
+<div style="float: right; width: 320px; margin-left: 1.5rem; margin-bottom: 1.5rem;">
 <img src="/images/blog/tomorrow-impermanent-address/Tower-imaging-camera-duplex.jpg" style="width: 320px; margin-bottom: 0.5rem;">
 <p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">Imaging a corn field in North Carolina. Research underway aims to miniaturize hyperspectral cameras like the one atop this tower so they can be mounted on UAVs capable of flying over/beneath the crop canopy, capturing high-density information.</p>
 </div>
