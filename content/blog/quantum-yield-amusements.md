@@ -2,7 +2,7 @@
 title = 'Quantum Yield and Other Benign Amusements'
 date = '2019-11-09'
 draft = false
-summary = 'An inquiry into photochemistry and its practical applications in the field using the MultispeQ PAM fluorometer.'
+summary = 'A pocket-sized PAM fluorometer, a sweaty Kinston cornfield, and a Pakistani visiting scholar add up to a surprising verdict on whether open-source electronics can catch what drought stress does to a corn leaf before the human eye ever notices.'
 tags = ['MultispeQ', 'PAM fluorometry', 'photochemistry', 'PhotosynQ', 'quantum yield']
 
 [paige.pages]
