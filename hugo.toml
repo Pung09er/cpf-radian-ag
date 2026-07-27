@@ -31,6 +31,9 @@ style = """
 
 [params.paige.site]
 description = "Agronomics | Environment | ROD | Infrastructure"
+disable_credit = true      # removes the "Paige Theme" link
+disable_copyright = true  # keep or remove your site copyright line
+disable_license = true    # keep or remove license text, if you're using one
 
 [menu]
   [[menu.main]]
