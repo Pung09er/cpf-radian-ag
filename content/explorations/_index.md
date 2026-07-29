@@ -14,9 +14,9 @@ disable_reading_time = true
 <img src="/images/explorations/Mappe-Monde.jpg" alt="Explorations — Mappe Monde" style="width: 100%; margin-bottom: 1.5rem;">
 
 <ul style="text-align: left;">
-  <li><a href="/documents/explorations/Sierra-Leone-web.pdf" target="_blank" rel="noopener"><strong>Sierra Leone Journey: An Annotated Photolog</strong></a> — A memoir of people, places, culture, and agriculture in West Africa.</li>
-  <li><a href="/documents/explorations/cambodian-glimpses-web-1.pdf" target="_blank" rel="noopener"><strong>Cambodian Glimpses I</strong></a> — The Mekong Delta.</li>
-  <li><a href="/documents/explorations/cambodian-glimpses-web-2.pdf" target="_blank" rel="noopener"><strong>Cambodian Glimpses II</strong></a> — Voyage to the Highlands: Mondulkiri and Ratanakiri.</li>
+  <li><a href="/documents/explorations/Sierra-Leone-web.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-Sierra-Leone-web"><strong>Sierra Leone Journey: An Annotated Photolog</strong></a> — A memoir of people, places, culture, and agriculture in West Africa.</li>
+  <li><a href="/documents/explorations/cambodian-glimpses-web-1.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-cambodian-glimpses-web-1"><strong>Cambodian Glimpses I</strong></a> — The Mekong Delta.</li>
+  <li><a href="/documents/explorations/cambodian-glimpses-web-2.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-cambodian-glimpses-web-2"><strong>Cambodian Glimpses II</strong></a> — Voyage to the Highlands: Mondulkiri and Ratanakiri.</li>
   <li><a href="#"><strong>Le Cameroun</strong></a> — Université de Dschang-Ecole Nationale Supérieure Agronomique: There and Beyond. <em>(under construction)</em></li>
 </ul>
 
