@@ -24,9 +24,9 @@ disable_reading_time = true
 
 </div>
 
-- [GHA-FY15-039 End of Assignment Debriefing Report](/documents/farmer-to-farmer/cassava/GHA-FY15-039_EOA.pdf) — Brief comment about the debriefing report.
+<li><a href="/documents/farmer-to-farmer/cassava/GHA-FY15-039_EOA.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-GHA-FY15-039_EOA">GHA-FY15-039 End of Assignment Debriefing Report</a> — Debriefing report with field shots.</li>
 
-- [Blog Post Title](#) — *Placeholder — link to be added once blog is transferred from WordPress.*
+<li><a href="/blog/let-us-now-praise-famous-roots/">Let Us Now Praise Famous Roots</a> — More about cassava. Agrosphere Journal blog entry, August 2015.</li>
 
 <div style="display: flex; justify-content: center;">
 <iframe 
