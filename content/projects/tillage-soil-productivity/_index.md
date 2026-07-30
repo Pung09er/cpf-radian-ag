@@ -2,7 +2,7 @@
 title = 'Tillage and Soil Productivity'
 draft = false
 weight = 4
-summary = "Examining the ways tillage has influenced soil and productivity in Southern agricultural systems."
+summary = "Tillage leaves a lasting imprint on soil that only long-term field trials can fully reveal.The 1984 NCSU agronomy plots at Reidsville have been the focal point of studies on tillage, soil function and agricultural productivity."
 
 [paige.pages]
 disable_word_count = true
@@ -17,7 +17,7 @@ disable_reading_time = true
 
 <p>From the earliest hand-powered stone tools used to break ground, tillage has been central to the human relationship with land. The soil retains a memory of tillage, one that may persist for millennia, modulated by texture, structure, drainage, water content, crop rotation, and climate. Because these variables interact in ways that short-term investigations rarely capture, sustained support for long-term field trials is fundamental to understanding the role of tillage in soil function and agricultural productivity.</p>
 
-<p>In 1984, a group of researchers in NCSU’s Department of Soil Science established two agronomy trials, both on fine, kaolinitic, thermic Typic Kanhapludults at the Upper Piedmont Research Station near Reidsville, North Carolina, designed to assess land management practices on soil and crop productivity, and environmental consequences. Eleven research articles have been published in major peer-reviewed scientific journals, and a growing public-private partnership seeks to preserve these unique historic trials in perpetuity. Drawing on this long-term field research, we examine the ways tillage has shaped soil and productivity in Southern agricultural systems.
+<p>In 1984, a group of researchers in NCSU’s Department of Soil Science established two agronomy trials, both on fine, kaolinitic, thermic Typic Kanhapludults at the Upper Piedmont Research Station near Reidsville, North Carolina, designed to assess land management practices on soil function, productivity, and environmental stewardship. Eleven research articles have been published in major peer-reviewed scientific journals, and a growing public-private partnership seeks to preserve these unique historic trials in perpetuity. Drawing on this long-term field research, we examine the ways tillage has shaped soil and productivity in Southern agriculture.
 </p>
 
 </div>
