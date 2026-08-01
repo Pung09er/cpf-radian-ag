@@ -15,7 +15,7 @@ disable_reading_time = true
 <div style="max-width: 800px; margin: 0 auto; padding: 0 1.5rem;">
 
 <div style="float: left; width: 350px; margin-right: 1.5rem; margin-bottom: 3rem;">
-<img src="/images/blog/shape-of-yields-to-come/muggle-giant-pumpkin.jpg" alt="Muggle the giant pumpkin weighing 2819 pounds world record" style="width: 350px; margin-bottom: 0;">
+<img src="/images/blog/shape-of-yields-to-come/muggle-giant-pumpkin.jpg" alt="Muggle the giant pumpkin weighing 2819 pounds world record" style="width: 350px; margin-bottom: 0.5rem;">
 <p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: justify;">A pumpkin fit for Linus. This behemoth weighed 2,819.3 pounds (1,278.8 kg), claiming a new world record on October 6, 2025, for twin brothers Ian and Stuart Paton at the 6th Wargrave Nursery Giant Vegetable Weigh-off in Reading, UK. How much further up can humans push the yield curve? Image credit: Mgiganteus1</p>
 </div>
 

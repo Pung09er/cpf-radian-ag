@@ -3,7 +3,7 @@ title = "Out of the Scientist's Garden"
 date = '2013-03-28'
 draft = false
 summary = 'A chronicle of success and failure in the search for agricultural sustainability.'
-tags = ['book reviews', 'clever clover', 'irrigation', 'Louis Bromfield', 'Richard Stirzaker']
+tags = ['book reviews', 'clever clover', 'irrigation', 'water resiliency', 'Louis Bromfield', 'Richard Stirzaker']
 
 [paige.pages]
 disable_word_count = true
