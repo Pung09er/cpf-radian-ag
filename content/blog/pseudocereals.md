@@ -2,7 +2,7 @@
 title = 'Pseudocereals: Super "Foods", or Pantry Hokum?'
 date = '2013-06-19'
 draft = false
-summary = "Quinoa, undressed"
+summary = "Quinoa, undressed."
 tags = ['pseudocereals', 'quinoa']
 
 [paige.pages]
