@@ -33,7 +33,7 @@ It isn't. Le Safoutier, like Okok, has always been, and will always be, there fo
 
 <div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/meditations-on-okok/safoutier-plum.jpg" style="width: 320px; margin-bottom: 0.5rem;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0 auto; width: 320px; text-align: center;">Le safoutier (Dacryodes edulis) Cameroon, Central Africa</p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0 auto; width: 320px; text-align: center;">Le safoutier (Dacryodes edulis) Cameroon, Central Africa. Image source: Walters Collection</p>
 </div>
 
 </div>
