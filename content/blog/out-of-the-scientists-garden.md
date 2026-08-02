@@ -82,7 +82,7 @@ Part 3, "Feeding Ourselves" examines the global food production system, paying a
 
  *Out of the Scientist's Garden* is not a "how-to" manual. It will not teach you to make compost or become self-sufficient. There are no recipes for sustainable agriculture; no answers to humanity's pressing need for ever more food, housing, and energy. It's about "how to think about things", using water as a didactic prop. Stirzaker's hope is that readers will bear witness to their own experiences, perhaps reaching different conclusions. 
  
- I strongly recommend this book to anyone interested in agriculture, water, sustainability, and natural resources. If you've been around the block a few times like me, eaten dust, indulged the worldly scene, and taken the measure of all the moods of human wisdom and folly, there's bound to be something here that parallels your turn in the arena.  
+ I strongly recommend this book to anyone interested in agriculture, water, sustainability, and natural resources. If you've been around the block a few times like me, eaten dust, indulged the worldly oracles, and taken the measure of all the moods of human wisdom and folly, there's bound to be something here that parallels your turn in the arena.  
 
 <div style="clear:both; margin: 0; padding: 0;"></div>
 
