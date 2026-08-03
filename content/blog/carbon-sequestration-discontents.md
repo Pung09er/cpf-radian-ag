@@ -15,7 +15,7 @@ disable_reading_time = true
 <div style="max-width: 800px; margin: 0 auto; padding: 0 1.5rem;">
 
 <div style="float: left; width: 320px; margin-right: 1.5rem; margin-bottom: 1.5rem;">
-<img src="/images/blog/carbon-sequestration-discontents/vertical-tillage-tool.JPG" style="width: 320px; margin-bottom: 0;">
+<img src="/images/blog/carbon-sequestration-discontents/vertical-tillage-tool.JPG" style="width: 320px; margin-bottom: 3rem;">
 <p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">Climate "smart" enthusiasts claim that the damaging effects of climate change can be reversed by agricultural practices that promote the sequestration of atmospheric carbon in the soil. What is the evidence?</p>
 </div>
 

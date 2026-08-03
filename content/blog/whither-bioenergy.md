@@ -159,13 +159,13 @@ Where:
 The equation can be rearranged to find power:
 
 <div style="text-align: center; margin: 1rem 0;">
-<img src="/images/blog/wither-bioenergy/power-energy-time.png" style="width: 140px; margin-bottom: 0;">
+<img src="/images/blog/wither-bioenergy/power-energy-time.png" style="width: 140px; margin-top: 0; margin-bottom: 0;">
 </div>
 
 And rearranged to find time:
 
 <div style="text-align: center; margin: 1rem 0;">
-<img src="/images/blog/wither-bioenergy/time-energy-power.png" style="width: 130px; margin-bottom: 0;">
+<img src="/images/blog/wither-bioenergy/time-energy-power.png" style="width: 125px; margin-top: 0; margin-bottom: 0;">
 </div>
 
 Summarizing: Energy is the capacity to do work over a specified period of time. The international unit of energy is the joule (J). Energy can be used to heat a home, dry grain, or propel a tractor over a field. Energy can be stored and change its form.
