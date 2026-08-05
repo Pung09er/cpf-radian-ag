@@ -1,6 +1,6 @@
 +++
 title = 'Fresh Tracks'
-date = '2013-03-31'
+date = '2013-03-26'
 draft = false
 summary = 'A blog is born.'
 tags = []
