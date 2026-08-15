@@ -16,7 +16,7 @@ disable_reading_time = true
 
 <div style="float: left; width: 320px; margin-right: 1.5rem; margin-bottom: 1.5rem;">
 <img src="/images/blog/meditations-on-okok/provisioning-from-the-bush.jpg" style="width: 320px; margin-bottom: 0.5rem;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0 auto; width: 320px; text-align: justify;">Bush-to-table provisioning, African style. Image source: Walters Collection</p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0 auto; width: 320px; text-align: justify;">Bush-to-table provisioning, African style. Image: Walters Collection</p>
 </div>
 
 A recent item in <a href="https://www.forestsnews.org/19286/edible-vine-improves-womens-livelihoods-in-cameroon?goback=.gde_1779636_member_5795211043990953988#!" target="_blank" rel="noopener">Forests News</a>, a blog by the Center for International Forestry Research (CIFOR), about a little-known <a href="https://www.landscapealliance.org/publications/pdf_files/factsheet/Gnetum_eng.pdf" target="_blank" rel="noopener">edible evergreen tropical plant</a> induced a moment of reflection about food. Precisely, what is the definition of "food"? Does "food" shape human identity, imparting some ineffable stamp on our conscious life? Why are some edibles frowned upon because they're not raised in fenced feedlots or in equally spaced, weed-free rows? Amid all the dire predictions that planet Earth will be overrun with 9 billion or more hungry, grasping humans by 2050, and the tremendous strain this will put on the natural resources we rely on to feed ourselves, there is little thought given to the contribution of so-called "bush" or "wild" foods that sustain many rural households.
@@ -33,7 +33,7 @@ It isn't. Le Safoutier, like Okok, has always been, and will always be, there fo
 
 <div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/meditations-on-okok/safoutier-plum.jpg" style="width: 320px; margin-bottom: 0.5rem;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0 auto; width: 320px; text-align: center;">Le safoutier (Dacryodes edulis) Cameroon, Central Africa. Image source: Walters Collection</p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0 auto; width: 320px; text-align: center;">Le safoutier (Dacryodes edulis) Cameroon, Central Africa. Image: Walters Collection</p>
 </div>
 
 </div>

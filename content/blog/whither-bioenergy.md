@@ -62,7 +62,7 @@ From its primordial birth, all the energy ever received by planet Earth has orig
 
 <div style="text-align: center; margin: 0 0 0.5rem 0;">
 <img src="/images/blog/wither-bioenergy/figure-2-sine-wave.jpg" style="width: 550px; margin-bottom: 0.5rem;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: center;">Figure 2. (a) Two-dimensional view of an electromagnetic wave. The frequency and wavelength of EM radiation determine how EM radiation interacts with matter. (b) Three-dimensional view of an EM wave showing coupled perpendicular electric and magnetic fields inherent to all EM phenomena. Image credit (b): redrawn from spie.org.</p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: center;">Figure 2. (a) Two-dimensional view of an electromagnetic wave. The frequency and wavelength of EM radiation determine how EM radiation interacts with matter. (b) Three-dimensional view of an EM wave showing coupled perpendicular electric and magnetic fields inherent to all EM phenomena. Image (b): redrawn from spie.org.</p>
 </div>
 
 <div style="margin: 2rem 0;"></div>

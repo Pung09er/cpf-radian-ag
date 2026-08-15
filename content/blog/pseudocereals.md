@@ -29,7 +29,7 @@ Pseudocereals like quinoa, chia, and amaranth have surged in popularity because 
 
 <div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/pseudocereals/Figure-1.jpg" style="width: 550px; margin-bottom: 0.5rem;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0 auto; width: 550px; text-align: center;"><strong>Figure 1.</strong> Quinoa production 1970-2011 from Bolivia, Ecuador, and Peru. <em>Data source: FAOSTAT (2011). Chart created by R. Walters.</em></p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0 auto; width: 550px; text-align: center;"><strong>Figure 1.</strong> Quinoa production 1970-2011 from Bolivia, Ecuador, and Peru. <em>Data source: FAOSTAT (2011). Graphic: R. Walters.</em></p>
 </div>
 
 Naturally, curious (and skeptical) minds want to know: Do these upstart grains deserve the commercial hype? Are they super "foods", or just pantry "hokum"?

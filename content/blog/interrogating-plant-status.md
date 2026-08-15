@@ -68,7 +68,7 @@ disable_reading_time = true
 
 <div style="float: left; width: 300px; margin-right: 1.5rem; margin-bottom: 3rem;">
 <img src="/images/blog/interrogating-plant-status/kautsky-hans.jpg" alt="Austrian chemist Hans Kautsky who discovered the Kautsky effect" style="width: 300px; margin-bottom: 0;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">Austrian chemist Hans Kautsky (1891-1966), who is credited with discovering the "Kautsky effect" of variable rate fluorescence. <em>Image source: Wikipedia</em></p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">Austrian chemist Hans Kautsky (1891-1966), who is credited with discovering the "Kautsky effect" of variable rate fluorescence. <em>Image: Wikipedia</em></p>
 </div>
 
 <p>In other words, F<sub>v</sub>/F<sub>m</sub> measures the maximum fraction of incident photon energy that can be used to drive PSII and electron transport. This parameter is important because it estimates the theoretical maximum quantum efficiency and therefore serves as a good indicator of CO<sub>2</sub> fixation in photosynthesis. What, then, is the theoretical maximum quantum efficiency?</p>

@@ -75,7 +75,7 @@ disable_reading_time = true
 
 <div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity/single-water-molecule.png" alt="Single water molecule diagram showing bond angle and partial charges" style="width: 350px; margin-bottom: 0;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">Characteristics of an isolated water molecule. δ+ and 2δ- represent the partial positive and negative charges on the proton (hydrogen) and oxygen. The bond angle reportedly ranges from 104.52° to 109.5° but is typically represented as 105°. Atomic distance is nanometers (nm), one billionth of a meter. <em>Image credit: R. Walters</em></p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">Characteristics of an isolated water molecule. δ+ and 2δ- represent the partial positive and negative charges on the proton (hydrogen) and oxygen. The bond angle reportedly ranges from 104.52° to 109.5° but is typically represented as 105°. Atomic distance is nanometers (nm), one billionth of a meter. <em>Graphic: R. Walters</em></p>
 </div>
 
 <p>There are two principal things to notice in the figure above. First, water has a bent molecular structure (105° H-O-H angle), which creates a permanent electric dipole moment. A dipole moment measures how unevenly electric charge is distributed in a molecule — essentially, how "lopsided" it is electrically (Debye). The oxygen atom, being highly electronegative, pulls electron density away from the hydrogen atoms, creating a partial negative charge (δ-) on oxygen and a partial positive charge (δ+) on hydrogen<sup style="color: #E5BA66;">3</sup>.</p>
@@ -96,7 +96,7 @@ disable_reading_time = true
 
 <div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity/walter-molecules.png" alt="Three water molecules showing hydrogen bonds" style="width: 450px; margin-bottom: 0;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">Water molecules interact with one another via weak hydrogen bonds. One water molecule can participate in four hydrogen bonds with other water molecules. This force of attraction between molecules, combined with the high density of molecules due to their small size, produces strong cohesion, which is responsible for water's liquid nature at standard pressure (1 atm) and at ambient temperatures 0° to 100°C. <em>Image credit: R. Walters</em></p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">Water molecules interact with one another via weak hydrogen bonds. One water molecule can participate in four hydrogen bonds with other water molecules. This force of attraction between molecules, combined with the high density of molecules due to their small size, produces strong cohesion, which is responsible for water's liquid nature at standard pressure (1 atm) and at ambient temperatures 0° to 100°C. <em>Graphic: R. Walters</em></p>
 </div>
 
 <p>The fact that water is a liquid at room temperature further enhances ion mobility. The alignment (polarization) of dipoles in an electric field is also responsible for water's excellent dielectric properties, enabling the storage of electrical energy. This is the principle underlying capacitors in modern water-based dielectric sensors, in which the dielectric constant of the system varies with the frequency of the electromagnetic field, enabling accurate measurement of environmental conditions.</p>

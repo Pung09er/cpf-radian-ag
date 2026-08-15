@@ -33,7 +33,7 @@ disable_reading_time = true
 
 <div style="text-align: center; margin: 0.5rem 0 1.5rem 0;">
 <img src="/images/blog/profiles-in-green-yukina-savoy/brassica-flower-seed-capsule.jpg" alt="Brassica flower and seed capsule" style="width: 450px; margin-bottom: 0;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: center;">Brassica flower and seed capsule. <em>Image source: UCLA Publ. 4030.</em></p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0; text-align: center;">Brassica flower and seed capsule. <em>Image: UCLA Publ. 4030.</em></p>
 </div>
 
 <p>The tribe <em>Brassiceae</em>, of which Yukina Savoy is a member, consists of about 50 genera and 230 species (Al-Shehbaz et al., 2006). Technically, Yukina Savoy belongs to <em>Brassica rapa</em>, field mustard, a genus that shows considerable variation in growth form and includes widely cultivated varieties, or so-called "cultivars". Field mustards are all herbaceous annual or biannual plants, with cultivated varieties generally being placed in four major groups (after Warwick et al., 2006):</p>
