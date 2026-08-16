@@ -80,7 +80,7 @@ disable_reading_time = true
 
 <div style="text-align: center; margin: 1.5rem 0;">
 <img src="/images/blog/imperfect-measure-of-purity-round2/grotthuss-mechanism-image.png" alt="Grotthuss mechanism diagram" style="width: 100%; margin-bottom: 0;">
-<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">The Grotthuss mechanism describes how protons (H<sup>+</sup>) move through water not by physically diffusing through the liquid, but by sequential proton transfers along chains of hydrogen-bonded water molecules. Hydroxide ions (OH<sup>–</sup>) also move via a Grotthuss-like mechanism, but the process differs in important ways and has been more controversial to characterize.Graphic: R. Walters</p>
+<p style="font-size: 0.85rem; font-style: italic; margin: 0.5rem; text-align: justify;">The Grotthuss mechanism describes how protons (H<sup>+</sup>) move through water not by physically diffusing through the liquid, but by sequential proton transfers along chains of hydrogen-bonded water molecules. Hydroxide ions (OH<sup>–</sup>) also move via a Grotthuss-like mechanism, but the process differs in important ways and has been more controversial to characterize. Graphic: R. Walters</p>
 </div>
 
 <p>We must now determine the ionic conductivity per charge (symbol: λ), representing the conductivity contribution of one equivalent of the ions H<sup>+</sup> and OH<sup>–</sup> at infinite dilution. This sounds scary, but fortunately, these values are readily available from published sources like the CRC Handbook (Rumble, 2025):</p>
