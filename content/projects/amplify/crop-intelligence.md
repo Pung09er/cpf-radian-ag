@@ -19,10 +19,11 @@ machine guidance systems are generating high-dimensional information that could 
 <div style="display: flex; flex-direction: column; align-items: left; text-align: left;">
 
 <ul style="display: inline-block; text-align: left;">
-  <li><a href="https://www.youtube.com/watch?v=AGhDnIM5NTM">Watch: Crop Intelligence Video</a> — Brief descriptor for the YouTube video goes here.</li>
-  <li><a href="/documents/amplify/crop-intelligence/AMPLIFY_Progress_Report_abridged.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-AMPLIFY_Progress_Report_abridged">AMPLIFY Progress Report (Abridged)</a> — Brief descriptor goes here.</li>
-  <li><a href="/documents/amplify/crop-intelligence/AMP_2015_IF_Presentation.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-AMP_2015_IF_Presentation">AMPLIFY 2015 IF Presentation</a> — Brief descriptor goes here.</li>
-  <li><a href="/documents/amplify/crop-intelligence/NVDI-PRI-IFPanel.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-NVDI-PRI-IFPanel">NDVI-PRI IF Panel</a> — Brief descriptor goes here.</li>
+  <li><a href="https://www.youtube.com/watch?v=AGhDnIM5NTM">Watch: Crop Intelligence Video</a> —PSI Symposium Recap December 2021.</li>
+  <li><a href="/documents/amplify/crop-intelligence/AMPLIFY_Progress_Report_abridged.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-AMPLIFY_Progress_Report_abridged">AMPLIFY Progress Report (Abridged)</a> —Irrigation Strategies for Water-Efficient Corn Production in Eastern North Carolina:
+3-yr Summary. Hyperspectral imaging data are not included.</li>
+  <li><a href="/documents/amplify/crop-intelligence/AMP_2015_IF_Presentation.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-AMP_2015_IF_Presentation">AMPLIFY 2015 IF Presentation</a> — Infographic</li>
+  <li><a href="/documents/amplify/crop-intelligence/NVDI-PRI-IFPanel.pdf" target="_blank" rel="noopener" data-goatcounter-click="pdf-NVDI-PRI-IFPanel">NDVI-PRI IF Panel</a> — Narrow-Band Vegetation Index Spectral Sensors.</li>
 </ul>
 
 </div>
