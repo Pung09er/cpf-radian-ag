@@ -112,7 +112,7 @@ The good news: If you're in the bioenergy business, there's still room to grow. 
 
 As noted earlier, human demand for energy and food is inseparable. With a global human population expected to reach 10 billion by 2050, supplying enough energy to ensure everyone has sufficient food is one of humanity's most significant challenges. At this stage, it is impossible to predict how the tug-of-war between food and energy will unfold.
 
-I do not foresee bioenergy withering away. Bioenergy is the primordial source of human sustenance, to which many cultures still have a deep attachment. Saying that, it is, unfailingly, the ever-conjured precise knowledge of the future that is always just beyond human reach. Cold fusion, anyone?
+I do not foresee bioenergy withering away. Bioenergy is the primordial source of human sustenance, to which many cultures are still deeply attached. Saying that, it is, unfailingly, the ever-conjured precise knowledge of the future that is always just beyond human reach. Cold fusion, anyone?
 
 **End Notes (for the insanely curious only!)**
 
