@@ -16,7 +16,7 @@ disable_reading_time = true
 
 <div style="padding-right: 3rem;">
 Biochar is the charcoal remains of incomplete combustion of biomass (e.g., woodchips, brush, greenwaste). Biomass is heated to extract biofuel (biodiesel) in a process called torrefaction. Biochar produced via “slash and smolder” has been implicated in the formation of highly productive terra preta soils in South America. When added to the soil, biochar may sequester carbon, slow nutrient leaching, increase nutrient availability, decrease fertilizer requirements, improve water
-relations, and stimulate beneficial soil fungi. This research evaluated crop and soil response to five levels of biochar application (0, 10, 20, 40, 80 t/ha) and two fertilizer treatments (+/- NPK) over five growing seaons on a Noboco loamy sand soil in Duplin County, N.C. 
+relations, and stimulate beneficial soil fungi. This research evaluated crop and soil response to five levels of biochar application (0, 10, 20, 40, 80 t/ha) and two fertilizer treatments (+/- NPK) over five years on a Noboco loamy sand soil in Duplin County, NC. 
 </div>
 <div style="clear:both"></div>
 
